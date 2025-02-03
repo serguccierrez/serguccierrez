@@ -13,14 +13,12 @@ Aquí podrás encontrar los proyectos que he realizado para diversas asignaturas
 ## 💻 Proyectos Personales
 También estoy trabajando en proyectos fuera del ámbito académico, en los que aplico las habilidades aprendidas y exploro nuevas tecnologías.
 
-## ⚡ Tecnologías que manejo
-- HTML, CSS, SASS, JavaScript
-- JSX, React
-- Python
-- Java
-- C/C++
-- MySQL
-- Git
+## ⚡Technologies
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
