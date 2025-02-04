@@ -50,6 +50,11 @@ También estoy trabajando en proyectos fuera del ámbito académico, en los que 
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 
+## 📊 GitHub Stats
+
+[![serguccierrez's GitHub stats](https://github-readme-stats.vercel.app/api?username=serguccierrez&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serguccierrez&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ¡Sígueme para ver cómo evoluciona mi trabajo!
 
