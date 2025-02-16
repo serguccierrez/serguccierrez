@@ -83,7 +83,6 @@ _Mis repositorios reflejan tanto mi aprendizaje como mi pasión por resolver pro
 Si te interesa mi trabajo o quieres colaborar en algún proyecto, no dudes en contactarme. Estoy abierto a oportunidades de aprendizaje y networking.  
 
 _If you're interested in my work or want to collaborate on a project, feel free to reach out! I'm open to learning opportunities and networking._  
-
-📧 **Email:**   
-💼 **LinkedIn:** https://www.linkedin.com/in/sergio-guti%C3%A9rrez-fern%C3%A1ndez/   
+ 
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sergio-guti%C3%A9rrez-fern%C3%A1ndez/">Profile</a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=serguccierrez&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="contador de visitas" /> </p>
