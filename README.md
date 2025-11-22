@@ -70,7 +70,8 @@ _Mis repositorios reflejan tanto mi aprendizaje como mi pasión por resolver pro
 ## 📊 Lenguajes más usados | Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serguccierrez&layout=compact&theme=white&langs_count=10"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=serguccierrez&layout=compact" />
+
 </p>
 
 🔹 **Este gráfico se genera automáticamente según mi actividad en GitHub, pero mi experiencia incluye otros lenguajes y tecnologías._  
