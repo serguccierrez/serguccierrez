@@ -70,9 +70,11 @@ _Mis repositorios reflejan tanto mi aprendizaje como mi pasión por resolver pro
 ## 📊 Lenguajes más usados | Most Used Languages  
 
 <p align="center">
-  ![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serguccierrez&theme=default)
-
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=serguccierrez&layout=compact&langs_count=10" />
 </p>
+
+
+
 
 🔹 **Este gráfico se genera automáticamente según mi actividad en GitHub, pero mi experiencia incluye otros lenguajes y tecnologías._  
 🔹 _This chart is automatically generated based on my GitHub activity, but my experience includes other languages and technologies._  
